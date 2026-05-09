@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+ 
+</p>
+ 
+<h5 align=center> <img width="" height="" alt=" " src="https://file.garden/aOFJZUM02SFxAPgt/Kiriato%20on%20insta"/>
 
-<!--
-**maeIstrom/maeIstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+<ins> obi </ins> ‎ ‎ ‎ ‎ ‎ ‎ ‎ he, him ‎ ‎ ‎ ‎ ‎ ‎ ‎ 5teen 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*[ATA](https://obiiii.atabook.org/)* - *[RENTRY](https://rentry.co/kuzan)* - *[STRAW](https://elbaf.straw.page/)*
+
+
+</p>
+ ⠀⠀⠀ ⠀
+ <h5 align=center>  <img src=https://komarev.com/ghpvc/?username=your-github-username&color=cc5a52&style=flat-square&label=☾+☼+‎ >
