@@ -9,5 +9,5 @@
 <h5 align=center> <img width="" height="" alt=" " src="https://file.garden/aOFJZUM02SFxAPgt/maeIstrom.png"/>
 
 <p align="center">
-<h5 align=center>  <img src=https://komarev.com/ghpvc/?username=your-github-username&color=&style=flat-square&label=>
+<h5 align=center>  <img src=https://komarev.com/ghpvc/?username=your-github-username&color=d6b85c&style=flat-square&label=you'll+always+be+my+little+brother.>
 </p>
