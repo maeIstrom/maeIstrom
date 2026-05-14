@@ -1,8 +1,8 @@
 <p align="center">
 <a href="https://obiiii.atabook.org/">
-<img src=" " alt="" width="80"></a>
+<img src="https://file.garden/aOFJZUM02SFxAPgt/ATA%20(2).png" alt="" width="75"></a>
 <a href="https://rentry.co/kuzan">
-<img src=" " alt="" width="190">
+<img src="https://file.garden/aOFJZUM02SFxAPgt/rentry" alt="" width="200">
 </a>
 </p>
  
