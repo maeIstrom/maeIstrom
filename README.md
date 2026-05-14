@@ -14,4 +14,4 @@
 
 </p>
  ⠀⠀⠀ ⠀
- <h5 align=center>  <img src=https://komarev.com/ghpvc/?username=your-github-username&color=cc5a52&style=flat-square&label=☾+☼+‎ >
+ <h5 align=center>  <img src=https://komarev.com/ghpvc/?username=your-github-username&color=&style=flat-square&label=>
