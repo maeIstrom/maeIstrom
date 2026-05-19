@@ -1,5 +1,5 @@
 <p align="center">
- 
+ thank you 4 giving me le title of manepear of pt! <a href="https://github.com/pt-stars">@pt-stars</a>
 </p>
  
 <h5 align=center> <img width="" height="" alt=" " src="https://file.garden/aOFJZUM02SFxAPgt/Kiriato%20on%20insta"/>
