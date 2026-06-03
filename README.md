@@ -11,3 +11,8 @@
 <p align="center">
 <h5 align=center>  <img src=https://komarev.com/ghpvc/?username=maeIstrom&color=b8677f&style=flat-square&label=🫧++>
 </p>
+
+
+
+
+PLEASE USE LIGHT MODE PLEASE PLEASE PLEASE
