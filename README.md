@@ -5,7 +5,7 @@
 
 </p>
 
-*[ATA](https://obiiii.atabook.org/)* - *[RENTRY](https://rentry.co/kuzan)* - *[STRAW](https://elbaf.straw.page/)*
+*[ATA](https://obiiii.atabook.org/)* - *[RENTRY](https://rentry.co/kuzan) ①* - *[RENTRY](https://rentry.co/zoan) ②* - *[STRAW](https://elbaf.straw.page/)*
 
 
 </p>
