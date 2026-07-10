@@ -1,4 +1,4 @@
-<h5 align=center> im too lazy for this shiiii :smiles:
+<h5 align=center> all because my head is full of poison
 
 
 <p align="center">
